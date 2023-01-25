@@ -1,3 +1,4 @@
+#Code to deal with measurements problems in LAPQUANTS
 #importando bibliotecas
 import numpy as np
 import matplotlib.pyplot as plt
